@@ -1,4 +1,0 @@
-- [x] Import difflib for fuzzy string matching
-- [x] Replace selectbox with text_input for movie search
-- [x] Modify recommend function to find closest match if exact title not found
-- [ ] Test the updated app
